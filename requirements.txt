@@ -9,7 +9,6 @@ Flask-Cors==3.0.10
 numpy==1.24.3
 pandas==2.0.2
 scikit-learn==1.2.2
-os==0.1.4
 pickle==0.7.5
 nltk==3.7
 Sastrawi==1.0.1
